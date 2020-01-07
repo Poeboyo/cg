@@ -1,0 +1,63 @@
+.page-footer {
+  position: relative;
+  bottom: 0%;
+  width: 100%;
+  margin-top: 3%;
+}
+.nav-logo {
+  width: 33%;
+  margin-left: 5%;
+}
+.navbar-fixed {
+  margin-bottom: 0%;
+}
+.slider-text-bg {
+  background: rgba(0, 0, 0, 0.65);
+  text-align: center;
+}
+.container {
+  padding: 5%;
+}
+.bullet {
+  list-style: square;
+  list-style-type: square;
+}
+.row {
+  margin-bottom: 5%;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.brand-text {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  line-height: 160%;
+  letter-spacing: normal;
+  text-align: center;
+}
+#bible-verse {
+  font-weight: 600;
+}
+.center-image {
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+.vg-logo {
+  width: 32%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 32%;
+  margin-top: 2%;
+}
+@media all and (max-width: 992px) {
+  .nav-logo {
+    width: 30%;
+    display: block;
+    margin-left: 50%;
+  }
+}

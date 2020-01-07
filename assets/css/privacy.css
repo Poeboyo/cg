@@ -1,0 +1,21 @@
+.container {
+  padding: 5%;
+  margin-top: 3%;
+}
+.page-footer {
+  position: relative;
+  bottom: 0%;
+  width: 100%;
+  margin-top: 3%;
+}
+.nav-logo {
+  width: 33%;
+  margin-left: 5%;
+}
+.navbar-fixed {
+  margin-bottom: 0%;
+}
+p {
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
